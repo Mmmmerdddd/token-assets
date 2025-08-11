@@ -2,5 +2,7 @@
   "name": "USDC Coin",
   "symbol": "USDC",
   "description": "USDC Stable Coin",
-  "image": "https://raw.githubusercontent.com/Mmmmerdddd/token-assets/refs/heads/main/token_logo.png"
+  "image": "https://raw.githubusercontent.com/Mmmmerdddd/token-assets/refs/heads/main/token_logo.png",
+  "extensions": {
+   "website": "https://www.usdc.com/"
 }
